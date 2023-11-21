@@ -1,1 +1,1 @@
-# extending-mongoose-schema-PA
+# Mongoose-integration-practice
